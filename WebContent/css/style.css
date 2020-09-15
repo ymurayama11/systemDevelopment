@@ -1,0 +1,10 @@
+@charset "UTF-8";
+table{
+	width: 260px;
+}
+table, th, td{
+	border: 1px solid #bbb; //太さ1px 実線 グレーの枠線を引く
+}
+input{
+	border-style: none;
+}
